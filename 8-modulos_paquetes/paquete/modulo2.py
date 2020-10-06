@@ -1,0 +1,1 @@
+mensaje = 'Hola estoy en el modulo dos del paquete principal'

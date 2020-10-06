@@ -1,0 +1,1 @@
+mensaje = 'Hola te saludo desde el modulo dentro del subpaquete'
